@@ -14,7 +14,7 @@
 
 ## Task 3
 
-- [ ] `3-index.html`
+- [x] `3-index.html`
 
 ## Task 4
 
