@@ -6,7 +6,7 @@
 
 ## Task 1
 
-- [ ] `1-index.html`
+- [x] `1-index.html`
 
 ## Task 2
 
