@@ -2,7 +2,7 @@
 
 ## Task 0
 
-- [ ] `0-index.html`
+- [x] `0-index.html`
 
 ## Task 1
 
@@ -30,7 +30,7 @@
 
 ## Task 7
 
- - [ ] `7-index.html`
+- [ ] `7-index.html`
 
 ## Task 8
 
@@ -158,9 +158,8 @@
 
 ## Task 39
 
-- [ ] `39-styleguide.html` 
+- [ ] `39-styleguide.html`
 
 ## Task 40
 
 - [ ] `styleguide.html`
-
