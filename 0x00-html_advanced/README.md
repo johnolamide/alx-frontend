@@ -42,7 +42,7 @@
 
 ## Task 10
 
-- [ ] `10-index.html`
+- [x] `10-index.html`
 
 ## Task 11
 
