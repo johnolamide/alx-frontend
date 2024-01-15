@@ -46,7 +46,7 @@
 
 ## Task 11
 
-- [ ] `11-index.html`
+- [x] `11-styleguide.html`
 
 ## Task 12
 
