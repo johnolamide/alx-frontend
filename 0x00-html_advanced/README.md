@@ -66,7 +66,7 @@
 
 ## Task 16
 
-- [ ] `16-index.html`
+- [x] `16-index.html`
 
 ## Task 17
 
