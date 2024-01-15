@@ -18,7 +18,7 @@
 
 ## Task 4
 
-- [ ] `article.html`
+- [x] `article.html`
 
 ## Task 5
 
