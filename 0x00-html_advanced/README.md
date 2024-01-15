@@ -54,7 +54,7 @@
 
 ## Task 13
 
-- [ ] `13-styleguide.html`
+- [x] `13-styleguide.html`
 
 ## Task 14
 
