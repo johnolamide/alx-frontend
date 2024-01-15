@@ -50,7 +50,7 @@
 
 ## Task 12
 
-- [ ] `12-index.html`
+- [x] `12-index.html`
 
 ## Task 13
 
