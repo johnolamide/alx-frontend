@@ -22,7 +22,7 @@
 
 ## Task 5
 
-- [ ] `5-index.html`
+- [x] `5-index.html`
 
 ## Task 6
 
