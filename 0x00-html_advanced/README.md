@@ -62,7 +62,7 @@
 
 ## Task 15
 
-- [ ] `15-index.html`
+- [x] `15-index.html`
 
 ## Task 16
 
