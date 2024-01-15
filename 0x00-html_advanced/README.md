@@ -58,7 +58,7 @@
 
 ## Task 14
 
-- [ ] `14-index.html`
+- [x] `14-index.html`
 
 ## Task 15
 
