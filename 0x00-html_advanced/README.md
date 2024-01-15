@@ -26,7 +26,7 @@
 
 ## Task 6
 
-- [ ] `6-index.html`
+- [x] `6-index.html`
 
 ## Task 7
 
