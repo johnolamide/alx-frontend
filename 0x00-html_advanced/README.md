@@ -86,7 +86,7 @@
 
 ## Task 21
 
-- [ ] '21-index.html'
+- [x] '21-index.html'
 
 ## Task 22
 
