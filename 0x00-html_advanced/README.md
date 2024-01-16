@@ -82,7 +82,7 @@
 
 ## Task 20
 
-- [ ] `20-index.html`
+- [x] `20-index.html`
 
 ## Task 21
 
