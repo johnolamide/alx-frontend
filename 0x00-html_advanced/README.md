@@ -162,4 +162,4 @@
 
 ## Task 40
 
-- [ ] `styleguide.html`
+- [x] `styleguide.html`
