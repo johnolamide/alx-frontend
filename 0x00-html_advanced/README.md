@@ -126,7 +126,7 @@
 
 ## Task 31
 
-- [ ] `31-index.html`
+- [x] `31-index.html`
 
 ## Task 32
 
