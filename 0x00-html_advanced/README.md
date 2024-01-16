@@ -90,7 +90,7 @@
 
 ## Task 22
 
-- [ ] '22-index.html'
+- [x] '22-index.html'
 
 ## Task 23
 
