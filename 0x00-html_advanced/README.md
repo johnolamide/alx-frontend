@@ -98,7 +98,7 @@
 
 ## Task 24
 
-- [ ] `24-index.html`
+- [x] `24-index.html`
 
 ## Task 25
 
