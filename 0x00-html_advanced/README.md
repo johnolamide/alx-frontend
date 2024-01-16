@@ -118,7 +118,7 @@
 
 ## Task 29
 
-- [ ] `29-index.html`
+- [x] `29-index.html`
 
 ## Task 30
 
