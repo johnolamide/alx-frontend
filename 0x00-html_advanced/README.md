@@ -138,7 +138,7 @@
 
 ## Task 34
 
-- [ ] `34-styleguide.html`
+- [x] `34-styleguide.html`
 
 ## Task 35
 
