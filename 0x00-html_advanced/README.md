@@ -158,7 +158,7 @@
 
 ## Task 39
 
-- [ ] `39-styleguide.html`
+- [x] `39-styleguide.html`
 
 ## Task 40
 
