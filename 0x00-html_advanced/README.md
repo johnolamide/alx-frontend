@@ -122,7 +122,7 @@
 
 ## Task 30
 
-- [ ] `30-styleguide.html`
+- [x] `30-styleguide.html`
 
 ## Task 31
 
