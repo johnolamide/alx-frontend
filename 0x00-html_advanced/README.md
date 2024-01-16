@@ -150,11 +150,11 @@
 
 ## Task 37
 
-- [ ] `index.html`
+- [x] `index.html`
 
 ## Task 38
 
-- [ ] `38-styleguide.html`
+- [x] `38-styleguide.html`
 
 ## Task 39
 
