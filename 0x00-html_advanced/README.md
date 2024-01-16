@@ -114,7 +114,7 @@
 
 ## Task 28
 
-- [ ] `28-styleguide.html`
+- [x] `28-styleguide.html`
 
 ## Task 29
 
