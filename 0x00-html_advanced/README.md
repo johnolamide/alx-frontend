@@ -70,7 +70,7 @@
 
 ## Task 17
 
-- [ ] `17-index.html`
+- [x] `17-index.html`
 
 ## Task 18
 
