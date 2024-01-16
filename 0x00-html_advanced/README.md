@@ -78,7 +78,7 @@
 
 ## Task 19
 
-- [ ] `about.html` `latest_news.html` `contact.html`
+- [x] `about.html` `latest_news.html` `contact.html`
 
 ## Task 20
 
