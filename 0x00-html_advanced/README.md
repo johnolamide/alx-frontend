@@ -74,7 +74,7 @@
 
 ## Task 18
 
-- [ ] `18-index.html`
+- [x] `18-index.html`
 
 ## Task 19
 
