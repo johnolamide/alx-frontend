@@ -102,11 +102,11 @@
 
 ## Task 25
 
-- [ ] `25-index.html`
+- [x] `25-index.html`
 
 ## Task 26
 
-- [ ] `26-styleguide.html`
+- [x] `26-styleguide.html`
 
 ## Task 27
 
