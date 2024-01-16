@@ -142,7 +142,7 @@
 
 ## Task 35
 
-- [ ] `35-index.html`
+- [x] `35-index.html`
 
 ## Task 36
 
