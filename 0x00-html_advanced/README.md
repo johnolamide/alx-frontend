@@ -110,7 +110,7 @@
 
 ## Task 27
 
-- [ ] `27-index.html`
+- [x] `27-index.html`
 
 ## Task 28
 
