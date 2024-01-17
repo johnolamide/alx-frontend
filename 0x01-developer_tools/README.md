@@ -6,7 +6,7 @@
 
 ## Task 1
 
-- [ ] `1-change_bg_color.png`
+- [x] `1-change_bg_color.png`
 
 ## Task 2
 
