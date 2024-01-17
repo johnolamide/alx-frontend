@@ -86,7 +86,7 @@
 
 ## Task 21
 
-- [ ] `21-hbtn_font-lib`
+- [x] `21-hbtn_font-lib`
 
 ## Task 22
 
