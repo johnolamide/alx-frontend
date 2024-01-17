@@ -78,7 +78,7 @@
 
 ## Task 19
 
-- [ ] `19-images_loaded`
+- [x] `19-images_loaded`
 
 ## Task 20
 
