@@ -54,7 +54,7 @@
 
 ## Task 13
 
-- [ ] `13-logo_dollar0`
+- [x] `13-logo_dollar0`
 
 ## Task 14
 
