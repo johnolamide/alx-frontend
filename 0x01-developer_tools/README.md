@@ -46,7 +46,7 @@
 
 ## Task 11
 
-- [ ] `11-coverage`
+- [x] `11-coverage`
 
 ## Task 12
 
