@@ -114,7 +114,7 @@
 
 ## Task 28
 
-- [ ] `28-unclear_desc.png`
+- [x] `28-unclear_desc.png`
 
 ## Task 29
 
