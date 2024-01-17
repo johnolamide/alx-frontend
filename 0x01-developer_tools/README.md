@@ -42,7 +42,7 @@
 
 ## Task 10
 
-- [ ] `10-moved_around.png`
+- [x] `10-moved_around.png`
 
 ## Task 11
 
