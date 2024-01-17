@@ -26,7 +26,7 @@
 
 ## Task 6
 
-- [ ] `6-declaration_file`
+- [x] `6-declaration_file`
 
 ## Task 7
 
