@@ -30,7 +30,7 @@
 
 ## Task 7
 
-- [ ] `7-number_of_listeners`
+- [x] `7-number_of_listeners`
 
 ## Task 8
 
