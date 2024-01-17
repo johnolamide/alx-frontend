@@ -58,7 +58,7 @@
 
 ## Task 14
 
-- [ ] `14-doc_title`
+- [x] `14-doc_title`
 
 ## Task 15
 
