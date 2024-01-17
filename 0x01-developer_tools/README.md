@@ -98,7 +98,7 @@
 
 ## Task 24
 
-- [ ] `24-static_assets_audit.png`
+- [x] `24-static_assets_audit.png`
 
 ## Task 25
 
