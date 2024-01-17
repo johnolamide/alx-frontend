@@ -2,7 +2,7 @@
 
 ## Task 0
 
-- [ ] `0-responsive_device.png`
+- [x] `0-responsive_device.png`
 
 ## Task 1
 
@@ -139,3 +139,4 @@
 ## Task 34
 
 - [ ] `34-ssl_expiration.png`
+
