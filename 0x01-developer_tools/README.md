@@ -94,7 +94,7 @@
 
 ## Task 23
 
-- [ ] `23-performance_audit.png`
+- [x] `23-performance_audit.png`
 
 ## Task 24
 
