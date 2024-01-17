@@ -74,7 +74,7 @@
 
 ## Task 18
 
-- [ ] `18-css_loaded`
+- [x] `18-css_loaded`
 
 ## Task 19
 
