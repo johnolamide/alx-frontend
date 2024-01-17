@@ -18,7 +18,7 @@
 
 ## Task 4
 
-- [ ] `4-new_buttons.png`
+- [x] `4-new_buttons.png`
 
 ## Task 5
 
