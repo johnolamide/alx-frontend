@@ -110,7 +110,7 @@
 
 ## Task 27
 
-- [ ] `27-missing_attr`
+- [x] `27-missing_attr`
 
 ## Task 28
 
