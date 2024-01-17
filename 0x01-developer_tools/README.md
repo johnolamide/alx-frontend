@@ -82,7 +82,7 @@
 
 ## Task 20
 
-- [ ] `20-favicon_type`
+- [x] `20-favicon_type`
 
 ## Task 21
 
