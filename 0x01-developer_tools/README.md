@@ -66,7 +66,7 @@
 
 ## Task 16
 
-- [ ] `16-weight.png`
+- [x] `16-weight.png`
 
 ## Task 17
 
