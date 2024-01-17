@@ -90,7 +90,7 @@
 
 ## Task 22
 
-- [ ] `22-xhr_calls`
+- [x] `22-xhr_calls`
 
 ## Task 23
 
