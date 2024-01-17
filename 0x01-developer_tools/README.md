@@ -22,7 +22,7 @@
 
 ## Task 5
 
-- [ ] `5-deleted_elements.png`
+- [x] `5-deleted_elements.png`
 
 ## Task 6
 
