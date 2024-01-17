@@ -50,7 +50,7 @@
 
 ## Task 12
 
-- [ ] `12-print_version.png`
+- [x] `12-print_version.png`
 
 ## Task 13
 
