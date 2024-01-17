@@ -70,7 +70,7 @@
 
 ## Task 17
 
-- [ ] `17-requests.png`
+- [x] `17-requests.png`
 
 ## Task 18
 
