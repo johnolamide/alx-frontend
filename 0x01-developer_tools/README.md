@@ -102,7 +102,7 @@
 
 ## Task 25
 
-- [ ] `25-contrast_issue`
+- [x] `25-contrast_issue`
 
 ## Task 26
 
