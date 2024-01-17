@@ -10,7 +10,7 @@
 
 ## Task 2
 
-- [ ] `2-pathways_menu.png`
+- [x] `2-pathways_menu.png`
 
 ## Task 3
 
