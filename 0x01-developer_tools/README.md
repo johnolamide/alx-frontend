@@ -14,7 +14,7 @@
 
 ## Task 3
 
-- [ ] `3-button_styles`
+- [x] `3-button_styles`
 
 ## Task 4
 
