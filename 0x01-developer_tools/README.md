@@ -38,7 +38,7 @@
 
 ## Task 9
 
-- [ ] `9-max_width`
+- [x] `9-max_width`
 
 ## Task 10
 
