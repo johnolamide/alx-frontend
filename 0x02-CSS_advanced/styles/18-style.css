@@ -121,6 +121,10 @@ a:active {
     margin: 0 auto;
 }
 
+.navbar-menu {
+    float: right;
+}
+
 .nav {
     margin: 0;
     padding: 0;
