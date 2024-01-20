@@ -125,14 +125,18 @@ a:active {
     float: right;
 }
 
+ul .nav {
+    list-style-type: none;
+}
+
+.footer {
+    padding: var(--footer-padding);
+}
+
 .nav {
     margin: 0;
     padding: 0;
     text-align: center;
-}
-
-ul.nav {
-    list-style-type: none;
 }
 
 .nav .nav-item {
@@ -151,8 +155,4 @@ ul.nav {
 
 .nav .nav-link:hover {
     color: var(--nav-item-link-hover);
-}
-
-.footer {
-    padding: var(--footer-padding);
 }
