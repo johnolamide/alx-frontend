@@ -42,5 +42,5 @@
 
 ## Task 10
 
-- [ ] `10-index.html` `10-styles.css`
+- [x] `10-index.html` `10-styles.css`
 
