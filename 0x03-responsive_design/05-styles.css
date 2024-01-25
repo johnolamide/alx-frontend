@@ -907,14 +907,14 @@
     margin: 0 1rem;
   }
 
-  .header .menu-icon {
+  header .menu-icon {
     cursor: pointer;
     padding: 2.5rem;
     position: relative;
     user-select: none;
   }
 
-  .header .menu-icon .navicon {
+  header .menu-icon .navicon {
     background: var(--color-white);
     display: block;
     width: 2rem;
@@ -923,7 +923,7 @@
     transition: background .2s ease-out;
   }
 
-  .header .menu-icon .navicon::before, .header .menu-icon .navicon::after {
+  header .menu-icon .navicon::before, .header .menu-icon .navicon::after {
     content: "";
     display: block;
     width: 100%;
@@ -933,10 +933,10 @@
     transition: all .2s ease-out;
   }
 
-  .header .menu-icon .navicon::before {
+  header .menu-icon .navicon::before {
     top: .7rem;
   }
 
-  .header .menu-icon .navicon::after {
+  header .menu-icon .navicon::after {
     top: -.7rem;
   }
